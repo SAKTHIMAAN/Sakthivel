@@ -7,7 +7,7 @@ I am a dedicated Data Analyst seeking to apply advanced analytical and programmi
 📫 How to reach me:  LinkedIn
 
 
-My Tech stack includes:-
+# My Tech stack includes:-
 
 Programming Language: Python	
 
