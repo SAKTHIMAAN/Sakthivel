@@ -4,7 +4,7 @@ I am a dedicated Data Analyst seeking to apply advanced analytical and programmi
 
 🔭 I’m currently upskilling myself and looking for opportunities as Data Analyst/ Data Scientist/ PowerBI Developer.
 
-📫 How to reach me:  LinkedIn
+📫 How to reach me:[  LinkedIn](www.linkedin.com/in/sakthivel-rajan-0316bb257)
 
 
 # My Tech stack includes:-
